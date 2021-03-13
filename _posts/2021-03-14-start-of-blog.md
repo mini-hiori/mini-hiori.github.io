@@ -19,3 +19,5 @@ categories: 雑談
     - [はてブ](https://hatenablog.com/)と[note](https://note.com/)で1ヶ月くらい迷って頭がおかしくなったので、  
     第三の選択肢を取った形
     - SEOは一番弱いかもだけど、コードが全部手元にあってその気になれば移植できる(多分)のが気持ち的に幸せなので満足
+        - [頑張るとSEO強くできるかもしれない](https://masamichi.me/development/2018/05/30/jekyll-seo.html)のでそのうちやる
+- フォントサイズとかツイッターのカード出すのとかは少々いじった
