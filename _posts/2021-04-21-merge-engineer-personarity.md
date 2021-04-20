@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @mini_hioriにエンジニア人格を統合する話
+title: ＠mini_hioriにエンジニア人格を統合する話
 categories: 雑談
 ---
 
