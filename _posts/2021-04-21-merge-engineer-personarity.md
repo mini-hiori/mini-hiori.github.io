@@ -37,5 +37,5 @@ date: 2021-04-21
 - [技術記事クソ書いた](https://zenn.dev/mini_hiori)
     - 最初の1記事書くのは流石に緊張したけど、qiita含め足掛け5記事書いて多少は慣れたかも
 - [草が生えてきた](https://github.com/mini-hiori)
-    ![](grass.png)
+    ![](https://raw.githubusercontent.com/mini-hiori/mini-hiori.github.io/master/_posts/grass.png)
     - まあ草はいつかは途切れるのであんまり重視してもいけないなとは思うけど、やったなあとは思えるので精神衛生上良い
