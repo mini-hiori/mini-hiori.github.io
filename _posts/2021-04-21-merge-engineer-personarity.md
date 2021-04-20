@@ -2,6 +2,7 @@
 layout: post
 title: ＠mini_hioriにエンジニア人格を統合する話
 categories: 雑談
+date: 2021-04-21
 ---
 
 ## 伝えたいこと

@@ -2,6 +2,7 @@
 layout: post
 title: ブログ作った
 categories: 雑談
+date: 2021-03-14
 ---
 
 - ブログ始める
